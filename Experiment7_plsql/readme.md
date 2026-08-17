@@ -37,6 +37,9 @@ END;
 **Expected Output:**  
 Greater number is: 80
 
+<img width="850" height="756" alt="Screenshot 2026-08-17 142830" src="https://github.com/user-attachments/assets/b8ae1da0-3f06-4ea6-a916-88efb7e0a757" />
+
+
 ---
 
 ## 2. Write a PL/SQL program to Calculate Sum of First N Natural Numbers
