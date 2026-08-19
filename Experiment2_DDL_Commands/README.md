@@ -104,28 +104,39 @@ CREATE TABLE Table_Name (
 ```
 
 **Question 1**
---
--- Paste Question 1 here
+
+<img width="1090" height="413" alt="image" src="https://github.com/user-attachments/assets/0f798d84-169d-4f27-a700-2149419eec14" />
+
 
 ```sql
--- Paste your SQL code below for Question 1
+
+CREATE TABLE Customers(
+CustomerID  INTEGER,     
+Name        TEXT,        
+Email       TEXT,
+JoinDate    DATETIME 
+);
+
 ```
 
 **Output:**
 
-![Output1](output.png)
+<img width="1229" height="350" alt="image" src="https://github.com/user-attachments/assets/4ec8024d-bb4d-4d58-a41a-4fb29366353c" />
+
 
 **Question 2**
 ---
--- Paste Question 2 here
+<img width="1265" height="570" alt="image" src="https://github.com/user-attachments/assets/ed80418f-19c3-4479-90b4-ebfe37f7ad0c" />
 
 ```sql
--- Paste your SQL code below for Question 2
+ALTER TABLE books ADD COLUMN ISBN varchar(30);
+ALTER TABLE books ADD COLUMN domain_dept varchar(30);
 ```
 
 **Output:**
 
-![Output2](output.png)
+<img width="1204" height="272" alt="image" src="https://github.com/user-attachments/assets/dea46424-bcad-4399-82cd-abc0a043e1ff" />
+
 
 **Question 3**
 ---
